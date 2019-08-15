@@ -17,3 +17,4 @@ Out of space?
 #BoardConfig.mk
 TARGET_MINIMAL_APPS := true
 
+
